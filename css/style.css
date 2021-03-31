@@ -11,6 +11,9 @@ section{
     height: 684px;
     padding: 22px 29px 30px 20px;
 }
+td{
+    font-family:'Arimo', Courier;
+}
 /*Таблица*/
 
 /*thead*/
